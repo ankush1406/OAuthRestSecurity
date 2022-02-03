@@ -1,5 +1,6 @@
 # OAuthRestSecurity
 Securing Rest Webservices using OAuth Authentication
+![image](https://user-images.githubusercontent.com/54397246/152373490-a59a9cef-93a4-4de3-83e3-1b2c50694b2a.png)
 
 
 daily scene: payment with a credit card in a store. In this case, there are three partners: the store, the bank, and us. Something similar happens in the OAuth2 protocol. These are the steps:
